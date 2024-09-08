@@ -7,3 +7,5 @@
 + Roller diameter: 3mm 
 + Roller circle diameter: 32mm 
 + Pressure angle limit: 50 deg 
+
+![initial package](Stepper_Cycloidal_Drive_Ratio19.png)
