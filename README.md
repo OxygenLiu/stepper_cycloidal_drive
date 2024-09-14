@@ -1,9 +1,9 @@
 # Cycloidal Drive for NEMA17 Stepper Motor 
 
-+ 240915 Update design of Ratio 11:1 for NEMA17 22mm shaft
-    + Cycloidal disk height 8mm 
-    + Rollers 3x25mm
-    + Total height of the reducer 30mm 
++ 240915 Ratio 11:1 update for NEMA17 22mm shaft
+    + cycloidal disk height 8mm 
+    + rollers 3x25mm
+    + height of the reducer 30mm 
 + 240909 Revised for Ratio 11:1
 + 240908 Initial package of ratio 19:1 
 
@@ -32,7 +32,7 @@
 ## Parts 
 
 + Bearing: MF128ZZ x 5, Nominal d8D12H3.5 vs. measured 7.92x11.93x3.41mm 
-+ Roller: D3x20mm x (12+6), measured D2.93x19.70mm 
++ Roller: D3x25mm x (12+6), measured D2.93x24.70mm 
 
 ## Design Software 
 
