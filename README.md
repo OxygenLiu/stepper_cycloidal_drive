@@ -1,9 +1,13 @@
 # Cycloidal Drive for NEMA17 Stepper Motor 
 
++ 240923 Update
+  + Cycloidal disk profile offset=0.0mm 
+  + Cycloidal disk height 9mm
+  + Output shaft / pin plate height 4.5mm 
 + 240915 Ratio 11:1 update for NEMA17 22mm shaft
-    + cycloidal disk height 8mm 
-    + rollers 3x25mm
-    + height of the reducer 30mm 
+  + cycloidal disk height 8mm 
+  + rollers 3x25mm
+  + height of the reducer 30mm 
 + 240909 Revised for Ratio 11:1
 + 240908 Initial package of ratio 19:1 
 
@@ -14,7 +18,7 @@
 + Roller diameter: 3mm 
 + Roller circle diameter: 30mm 
 + Pressure angle limit: 50 deg 
-+ Pressure angle offset: 0.1mm 
++ ~~Pressure angle offset: 0.1mm~~ 
 
 ![initial package](Stepper_Cycloidal_Drive_Ratio11.png)
 
