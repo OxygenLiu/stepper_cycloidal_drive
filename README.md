@@ -1,5 +1,7 @@
 # Cycloidal Drive for NEMA17 Stepper Motor 
 
++ 240929 Simply roller support on housing ring 
+  + Eliminate roller support frame
 + 240923 Update
   + Cycloidal disk profile offset=0.0mm 
   + Cycloidal disk height 9mm
